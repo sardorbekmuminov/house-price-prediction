@@ -1,0 +1,1 @@
+numpy>=1.24\npandas>=2.0\nmatplotlib>=3.7\nscikit-learn>=1.3\njupyter>=1.0\n

@@ -6,7 +6,7 @@ A beginner-friendly Machine Learning project that predicts median house values i
 
 The goal of this project is to build and evaluate machine learning models for predicting house prices based on different housing and geographical features.
 
-The project uses the **California Housing dataset** provided by Scikit-learn.
+The project uses the **California Housing dataset** provided by Scikit-learn. 
 
 Three regression approaches are implemented and compared:
 

@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction
 
-A beginner-friendly Machine Learning project that predicts median house values in California using regression algorithms.
+End-to-end regression project that predicts median house values in California. Compares a mean baseline, Linear Regression and Random Forest; the best model (Random Forest) reduces the mean absolute error by 64% relative to the baseline.
 
 ## 📌 Project Overview
 
@@ -75,6 +75,7 @@ The models were evaluated using three regression metrics:
 | Random Forest     | **0.328** | **0.507** | **0.804** |
 
 Random Forest achieved the best performance among the three models, with an R² score of **0.804**.
+The target is expressed in units of $100,000, so an MAE of 0.328 corresponds to an average error of roughly $32,800.
 
 ## 📈 Visualizations
 
